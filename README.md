@@ -1,2 +1,2 @@
-# node_blog
-node project of blog logging
+#### 我的第一个 node 项目
+1. 登陆，注册相关
